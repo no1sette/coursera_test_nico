@@ -40,6 +40,10 @@ body {
 	background:blue;
 }
 
+#nav-list a span {
+	font-size: 1.3em;
+}
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	border: 1px solid;
 }
