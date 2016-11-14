@@ -30,14 +30,17 @@ body {
 
 #nav-list {
 	margin-top: 10px;
+	background-color: #999999;
+
 }
 
 #nav-list a {
 	text-align: center;
+	color: #003333;
 }
 
 #nav-list a:hover {
-	background:blue;
+	background:white;
 }
 
 #nav-list a span {
